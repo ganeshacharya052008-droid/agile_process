@@ -1,0 +1,1 @@
+A sprint is a fundamental component of the Agile framework, particularly in Scrum. It is a fixed-length iteration, typically lasting between 2 to 4 weeks, during which a cross-functional team works to complete a set amount of work. The primary goal of a sprint is to deliver a potentially shippable product increment that meets the defined sprint goal.
